@@ -1,0 +1,13 @@
+G:\Free WoRk\c#\lab2sln\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+G:\Free WoRk\c#\lab2sln\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+G:\Free WoRk\c#\lab2sln\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+G:\Free WoRk\c#\lab2sln\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+G:\Free WoRk\c#\lab2sln\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+G:\Free WoRk\c#\lab2sln\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+G:\Free WoRk\c#\lab2sln\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
