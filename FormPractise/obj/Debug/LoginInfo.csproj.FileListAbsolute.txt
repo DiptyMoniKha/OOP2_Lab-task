@@ -1,0 +1,24 @@
+G:\C#\LoginInfoSln\LoginInfo\bin\Debug\LoginInfo.exe.config
+G:\C#\LoginInfoSln\LoginInfo\bin\Debug\LoginInfo.exe
+G:\C#\LoginInfoSln\LoginInfo\bin\Debug\LoginInfo.pdb
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.csprojAssemblyReference.cache
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Form1.resources
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Form2.resources
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Form3.resources
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Properties.Resources.resources
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.csproj.GenerateResource.cache
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.csproj.CoreCompileInputs.cache
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.exe
+G:\C#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.pdb
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\bin\Debug\LoginInfo.exe.config
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\bin\Debug\LoginInfo.exe
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\bin\Debug\LoginInfo.pdb
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.csprojAssemblyReference.cache
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Form1.resources
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Form2.resources
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Form3.resources
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.Properties.Resources.resources
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.csproj.GenerateResource.cache
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.csproj.CoreCompileInputs.cache
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.exe
+F:\C# lab task\mim c#\LoginInfoSln\LoginInfo\obj\Debug\LoginInfo.pdb
